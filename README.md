@@ -1,3 +1,6 @@
+# The ++ package will release soon! Stay tuned!
+
+
 # 🎮 Joy-Con 2 Windows compatibility
 
 This temporary project allows you to connect your **Nintendo Switch 2 Joy-Con** to a Windows PC using BLE and vJoy.
